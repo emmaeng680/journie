@@ -1,0 +1,32 @@
+.navbar {
+  background-color: hsl(210, 36%, 96%);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 50px;
+  font-size: 18px;
+  letter-spacing: 2px;
+}
+
+.navbarBrand {
+  letter-spacing: 5px;
+}
+
+.navbarNav {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+}
+
+.navbarNav li a {
+  margin-right: 15px;
+  color: #a9a9a9;
+}
+
+.navbarNav li a:hover {
+  background-color: #1abc9c !important;
+  padding: 5px;
+  color: #fff;
+  text-decoration: none;
+}

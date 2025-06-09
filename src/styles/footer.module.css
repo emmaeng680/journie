@@ -1,0 +1,26 @@
+.footerPadding {
+  padding-bottom: 60px;
+}
+
+.footer {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 80px;
+  background-color: #1abc9c;
+}
+
+.footer p {
+  margin-bottom: 5px;
+  font-size: 16px;
+  color: #fff;
+}
+
+.company {
+  margin-top: 10px;
+}
+
+.copyright {
+  font-size: 10px;
+}
